@@ -1,0 +1,89 @@
+@media screen and (min-width:320px) and (max-width:570px){
+    
+body{
+    width: unset;
+    height: unset;
+}
+
+header{
+    display: none;
+}
+ul{
+    flex-direction: column;
+}
+
+.parent{
+    flex-direction: column;
+    margin: unset;
+}
+
+.images img{
+    margin-left: 30%;
+}
+
+.box{
+    flex-direction: column;
+}
+
+.images2{
+    flex-direction: column;
+}
+
+.mainbox{
+    flex-direction: column;
+}
+
+.icon{
+    flex-direction: column;
+}
+
+.icon-first img{
+    flex-direction: column;
+}
+
+.image-sec{
+    flex-direction: column;
+}
+
+.bottom-link{
+    flex-direction: column;
+}
+
+bottom-links{
+    flex-direction: column;
+}
+first button a{
+    justify-content: center;
+}
+
+.background{
+    height: unset;
+    width: unset;
+}
+
+.head{
+    width: unset;
+}
+
+.bottom{
+    height: unset;
+    width: unset;
+}
+.bottom2{
+    height: unset;
+    /* width: unset; */
+}
+.menu{
+    width: unset;
+    height: unset;
+}
+
+.first h1{
+    text-align: center;
+}
+
+.color{
+    width: 680px;
+}
+
+}
